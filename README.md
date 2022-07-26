@@ -1,6 +1,7 @@
 # Java-Project
 <b>Java GUI를 이용한 미니 프로젝트</b>
 1. Calculator: 간단한 계산기
+![계산기](https://user-images.githubusercontent.com/87024571/181058978-1a7feadf-bff8-43d4-8965-5470094f2aa5.png)
   - 더하기
   - 빼기
   - 나누기
