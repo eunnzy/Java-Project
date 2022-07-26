@@ -1,5 +1,5 @@
 # Java-Project
-<h2>Java GUI를 이용한 미니 프로젝트</h2>
+<b>Java GUI를 이용한 미니 프로젝트</b>
 <br>
 <b>1. Calculator: 간단한 계산기</b>
  <img src="https://user-images.githubusercontent.com/87024571/181058978-1a7feadf-bff8-43d4-8965-5470094f2aa5.png"   height="500"/>
